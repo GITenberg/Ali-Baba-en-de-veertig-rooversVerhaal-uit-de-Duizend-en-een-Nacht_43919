@@ -1,0 +1,36 @@
+_repo: Ali-Baba-en-de-veertig-rooversVerhaal-uit-de-Duizend-en-een-Nacht_43919
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Fell, Herbert Granville
+    aliases:
+    - Fell, H. Granville (Herbert Granville)
+    - Fell, Granville
+    birthdate: 1872
+    deathdate: 1951
+    gutenberg_agent_id: '25968'
+    url: http://www.gutenberg.org/2009/agents/25968
+  translator:
+    agent_name: Gerhard, J. W.
+    alias: Gerhard, J.W.
+    gutenberg_agent_id: '42475'
+    url: http://www.gutenberg.org/2009/agents/42475
+covers:
+- cover_type: archival
+  image_path: 43919-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2013-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43919'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Arab countries'
+- !lcc 'PZ'
+- !lcsh 'Arabs -- Folklore'
+- !lcsh 'Fairy tales'
+title: Ali Baba en de veertig roovers (Verhaal uit de Duizend en een Nacht)
+url: http://www.gutenberg.org/ebooks/43919
