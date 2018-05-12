@@ -19,6 +19,8 @@ covers:
 - cover_type: archival
   image_path: 43919-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43919#Ali-Baba-en-de-veertig-rooversVerhaal-uit-de-Duizend-en-een-Nacht
 gutenberg_issued: '2013-10-09'
 gutenberg_type: Text
 identifiers:
